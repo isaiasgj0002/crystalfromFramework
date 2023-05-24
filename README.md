@@ -1,4 +1,4 @@
-# crystal Frog, un innovador framework de CSS
+# Crystal Frog, un innovador framework de CSS
 Crystal Frog es un innovador framework de CSS diseñado para facilitar y agilizar el desarrollo de interfaces web modernas y atractivas. Con una combinación de estilos elegantes y funcionalidades avanzadas, Crystal Frog ofrece a los desarrolladores una amplia gama de componentes y herramientas para crear sitios web visualmente impactantes.
 
 Con Crystal Frog, puedes disfrutar de una experiencia de desarrollo fluida y eficiente. El framework proporciona una arquitectura CSS bien organizada y modular, lo que permite una fácil personalización y mantenimiento de los estilos. Además, Crystal Frog incluye un conjunto de estilos predefinidos y temas que te permiten empezar rápidamente y adaptarlos a tus necesidades específicas.
