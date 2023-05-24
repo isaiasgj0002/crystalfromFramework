@@ -647,3 +647,11 @@ form .input:focus {
 .fadeOut {
     animation: fadeOut 0.5s ease-in-out;
 }
+.parallax-container {
+  height: 400px; 
+  position: relative;
+}
+
+.parallax-element {
+  background-attachment: fixed;
+}
